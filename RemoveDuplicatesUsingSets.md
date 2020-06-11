@@ -1,3 +1,7 @@
+This code has time complexity of O(n) and space complexity of O(n).
+We have used sets as sets doesn't contains duplicate values.
+We can also use HashMaps.
+
 
 ```
 public class PrintDuplicatesUsingSets {
