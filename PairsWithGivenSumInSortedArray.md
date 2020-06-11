@@ -1,3 +1,6 @@
+This code has a time complexity of O(n) and space complexity of O(1).
+We can use hashmaps for solving this program.
+
 ```
 public class PairsWithGivenSum {
 
